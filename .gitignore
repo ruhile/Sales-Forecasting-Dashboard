@@ -14,10 +14,10 @@ venv/
 env/
 ENV/
 
-# Model Files (large binaries)
-models/*.pkl
-models/*.joblib
-models/*.h5
+# Scratch & Backup Notebooks
+notebooks/*_old.ipynb
+notebooks/*_backup.ipynb
+scratch/
 
 # OS generated files
 .DS_Store
