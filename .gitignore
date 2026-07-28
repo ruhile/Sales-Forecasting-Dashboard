@@ -14,6 +14,11 @@ venv/
 env/
 ENV/
 
+# Zip & Archive Files
+*.zip
+*.tar.gz
+*.gz
+
 # Scratch & Backup Notebooks
 notebooks/*_old.ipynb
 notebooks/*_backup.ipynb
